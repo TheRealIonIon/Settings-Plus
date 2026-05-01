@@ -1,5 +1,8 @@
+# 1.3.1-beta.1
+- Fixed position of the Search button
+
 # 1.3.0
-- Update to 2.2081
+- Updated to 2.2081
 - Added in a new optional API
 - Added in a button to get back to the original settings page
 - Fixed some bugs
