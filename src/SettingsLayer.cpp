@@ -31,7 +31,7 @@ bool SearchPopup::init(SearchCB callback) {
         ButtonSprite::create("Search"), this, menu_selector(SearchPopup::onSearch)
     );
     btn->setID("search-button");
-    m_buttonMenu->addChildAtPosition(btn, Anchor::Center, {0, 25});
+    m_buttonMenu->addChildAtPosition(btn, Anchor::Center, {0, -35});
 
     return true;
 }
